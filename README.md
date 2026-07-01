@@ -41,7 +41,7 @@ If you find DSAFormer helpful for your research, please consider citing our work
 @article{Wu2026,
   title={Dual Sparse Aggregation Transformer for Multispectral Object Detection}, 
   author={Wencong Wu and Xiuwei Zhang and Hanlin Yin and Hongxi Zhang and Yanning Zhangg},
-  journal={arXiv preprint 	arXiv:2606.31015},
+  journal={arXiv preprint arXiv:2606.31015},
   year={2026}
 }
 ```
