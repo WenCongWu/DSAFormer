@@ -1,7 +1,7 @@
 # Dual Sparse Aggregation Transformer for Multispectral Object Detection
 This is an official PyTorch implementation for our DSAFormer. ArXiv paper will be download in [DSAFormer](https://arxiv.org/abs/2606.31015).
 
-Our paper has been accepted by **IEEE Transactions on Circuits and Systems for Video Technology** for publication as a regular paper. The final version of the paper will be updated soon.
+Our paper has been accepted by **IEEE Transactions on Circuits and Systems for Video Technology** for publication as a transactions paper. The final version of the paper will be updated soon.
 
 ### 1. Dependences
  Create a conda virtual environment and activate it.
